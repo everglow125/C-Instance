@@ -1,0 +1,7 @@
+E:\GitFile\C-Instance\InstanceDemo\LogicTests\bin\Debug\LogicTests.dll
+E:\GitFile\C-Instance\InstanceDemo\LogicTests\bin\Debug\LogicTests.pdb
+E:\GitFile\C-Instance\InstanceDemo\LogicTests\bin\Debug\Logic.dll
+E:\GitFile\C-Instance\InstanceDemo\LogicTests\bin\Debug\Logic.pdb
+E:\GitFile\C-Instance\InstanceDemo\LogicTests\obj\Debug\LogicTests.csprojResolveAssemblyReference.cache
+E:\GitFile\C-Instance\InstanceDemo\LogicTests\obj\Debug\LogicTests.dll
+E:\GitFile\C-Instance\InstanceDemo\LogicTests\obj\Debug\LogicTests.pdb
