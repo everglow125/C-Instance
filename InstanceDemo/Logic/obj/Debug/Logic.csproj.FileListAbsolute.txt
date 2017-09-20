@@ -1,5 +1,0 @@
-E:\GitFile\C-Instance\InstanceDemo\Logic\bin\Debug\Logic.dll
-E:\GitFile\C-Instance\InstanceDemo\Logic\bin\Debug\Logic.pdb
-E:\GitFile\C-Instance\InstanceDemo\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
-E:\GitFile\C-Instance\InstanceDemo\Logic\obj\Debug\Logic.dll
-E:\GitFile\C-Instance\InstanceDemo\Logic\obj\Debug\Logic.pdb
